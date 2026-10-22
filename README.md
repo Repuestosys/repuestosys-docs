@@ -1,6 +1,6 @@
 # repuestosys-docs
 Sistema POS e inventario en la nube para tiendas de repuestos en economías multimoneda. Alterna divisas en 1 clic, controla stock por vehículo y vende con catálogo 24/7.
-```markdown
+
 # RepuestoSys — Cloud POS & Multi-Currency Inventory SaaS for Auto Parts
 
 
@@ -29,10 +29,8 @@ Sistema POS e inventario en la nube para tiendas de repuestos en economías mult
 4. **Arqueo y Cierre de Caja Multidivisa:** Conciliación por turno para efectivo en múltiples divisas, Pago Móvil, Zelle, transferencias y puntos de venta.
 5. **Blindaje Financiero (COGS vs. Finanzas Personales):** Módulo desacoplado de gastos personales para proteger el cálculo del Costo de Mercancía Vendida (COGS).
 
-
 ## Enlaces Oficiales
 
 
 - **Plataforma Principal:** [https://www.repuestosys.com/](https://www.repuestosys.com/)
 - **Crear Cuenta Gratis (Hasta 300 SKUs):** [https://www.repuestosys.com/register](https://www.repuestosys.com/register)
-```
